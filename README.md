@@ -22,3 +22,18 @@ with Streamlite Data Science
 # Plotting Visualization
 
 ![title](assets/plotting-demo.gif)
+
+
+# Demo - Data Visualization Sweetz
+
+![title](assets/sweetVIZ.gif)
+
+
+# Demo - HR Analytics 
+
+![title](assets/HR-Analytics-demo.gif)
+
+
+# Demo - Jupyter Notebook 
+
+![title](assets/Notebook-Analise.gif)
